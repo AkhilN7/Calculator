@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(238, 244, 243);
+  font-weight: 600;
+}
+
+.calculator-class {
+  padding-left: 40%;
+  padding-right: 10%;
+  /*padding-top: 20%;*/
+  padding-bottom: 30%;
+}
+
+.btn {
+  background-color: #1e57a8; /* Green */
+  border: 1px solid blue;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.output {
+  margin: auto;
+  width: 20%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.top {
+  padding-top: 20%;
+}
+p {
+  color: grey;
+}
